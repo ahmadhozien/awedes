@@ -1,0 +1,197 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
+<!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]-->
+<!--[if gt IE 8]><!-->
+<html xmlns="http://www.w3.org/1999/xhtml" class="no-js" lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <title>Awedes Solutions | Web & media solutions</title>
+    <meta id="keywords" name="keywords" content=""/>
+    <meta id="description" name="description" content=""/>
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
+    <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+    <meta name="author" content="Ahmad Hozien" />
+    <link rel="shortcut icon" type="image/png" href="/favicon.png" />
+
+  <!-- Place favicon.ico and apple-touch-icon.png in the root directory -->
+
+	<link rel="stylesheet" href="assets/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="assets/css/animations.css" />
+    <link rel="stylesheet" href="assets/css/main.css" class="color-switcher-link" />
+	<script src="/assets/js/vendor/modernizr-2.6.2.min.js"></script>
+    <script src="https://kit.fontawesome.com/8eef63ee87.js" crossorigin="anonymous"></script>
+
+	<!--[if lt IE 9]>
+		<script src="/assets/theme/js/vendor/html5shiv.min.js"></script>
+		<script src="/assets/theme/js/vendor/respond.min.js"></script>
+		<script src="/assets/theme/js/vendor/jquery-1.12.4.min.js"></script>
+	<![endif]-->
+    
+    <style>
+        .sydneywebsecurity {
+            display: none !important;
+        }
+    </style>
+
+</head>
+<body class="stretched">
+    <!--[if lt IE 9]>
+		<div class="bg-danger text-center">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/" class="color-main">upgrade your browser</a> to improve your experience.</div>
+	<![endif]-->
+
+	<div class="preloader">
+		<div class="preloader_image"></div>
+	</div>
+
+    	<!-- search modal -->
+	<div class="modal" tabindex="-1" role="dialog" aria-labelledby="search_modal" id="search_modal">
+		<button type="button" class="close" data-dismiss="modal" aria-label="Close">
+			<span aria-hidden="true">&times;</span>
+		</button>
+		<div class="widget widget_search">
+			<form method="get" class="searchform search-form" action="/">
+				<div class="form-group">
+					<input type="text" value="" name="search" class="form-control" placeholder="Web design, mobile app development..." id="modal-search-input">
+				</div>
+				<button type="submit" class="btn">Search</button>
+			</form>
+		</div>
+	</div>
+
+ 	<div id="canvas">
+		<div id="box_wrapper">
+            <header class="page_header ds">
+                <div class="container-fluid">
+                    <div class="row align-items-center">
+                        <div class="col-xl-2 col-lg-3 col-11">
+                            <a href="/" class="logo text-center">
+                                <img src="assets/images/sydney-web-design.png" alt="Awedes Web Design Logo" />
+                            </a>
+                        </div>
+                        <div class="col-xl-8 col-lg-6 col-1 text-sm-center">
+                            <nav class="top-nav">
+                                <ul class="nav sf-menu">
+                                    <li class="active"><a href="/">Home </a></li>
+                                    <li><a href="about-us">Who we are </a></li>
+                                    <li><a href="services">Our Services </a>
+                                        <ul>
+                                            <li><a href="home#web">Web Design </a></li>
+                                            <li><a href="home#ecommerce">E-commerce </a></li>
+                                            <li><a href="smm">Social media marketing </a></li>
+                                            <li><a href="mobile-app">Mobile App </a></li>
+                                            <li><a href="#">Motion Design </a></li>
+                                            <li><a href="#">Graphic Design </a></li>
+                                        </ul>
+                                    </li>
+                                    <li><a href="home#ecommerce">E-Commerce </a></li>
+                                    <li><a href="contact">Contact </a></li>
+                                    
+                                </ul>
+                            </nav>
+                        </div>
+                        <div class="col-xl-2 col-lg-3 text-lg-left text-xl-right d-none d-lg-block">
+                            <div class="header_phone">
+                                <h6><a href="tel:+20106634-725"><span>(+20)</span> 1066340725</a></h6>
+                            </div>
+                        </div>
+                        
+                    </div>
+                </div>
+                <span class="toggle_menu">
+                    <span></span>
+                </span>
+            </header>
+            <span class="toggle_menu_side header-slide">
+                <span></span>
+            </span>
+                
+            <section class="page_slider main_slider">
+                <div class="flexslider" data-nav="true" data-dots="false">
+                    <ul class="slides">
+                        <li class="ds text-center slide1">
+                            <span class="flexslider-overlay"></span>
+                            <span class="embed-responsive embed-responsive-16by9">
+                                <video autoplay="true">
+                                  <source src="assets/images/header.MOV" type="video/mp4">
+                                  <source src="assets/images/header.MOV" type="video/ogg">.
+                                </video> 
+                            </span>
+                            <div class="container">
+                                <div class="row">
+                                    <div class="col-12 itro_slider">
+                                        <div class="intro_layers_wrapper">
+                                            <div class="intro_layers">
+                                                <div class="intro_layer" data-animation="fadeIn">
+                                                    <p class="text-uppercase intro_after_featured_word">AweDes</p>
+                                                </div>
+
+                                                <div class="intro_layer" data-animation="slideRight">
+                                                    <h2 class="text-uppercase intro_featured_word">Awesome Designs!
+                                                    </h2>
+                                                </div>
+                                                <div class="intro_layer" data-animation="fadeIn">
+                                                    <h3 class="intro_before_featured_word">
+                                                        <span class="color-main2">Touch</span>
+            												
+                                                        <span class="color-main3">the</span>
+            												
+                                                        <span class="color-main4">future</span>
+                                                    </h3>
+                                                </div>
+                                                <div class="intro_layer page-bottom" data-animation="expandUp">
+                                                    <a class="btn btn-maincolor" href="contact">Call us now</a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </li>
+                        <li class="ds text-center slide2">
+                            <span class="flexslider-overlay"></span>
+                            <span class="embed-responsive embed-responsive-16by9">
+                                <video autoplay="true">
+                                  <source src="assets/images/header.MOV" type="video/mp4">
+                                  <source src="assets/images/header.MOV" type="video/ogg">.
+                                </video> 
+                            </span>
+                            <div class="container">
+                                <div class="row">
+                                    <div class="col-12 itro_slider">
+                                        <div class="intro_layers_wrapper">
+                                            <div class="intro_layers">
+                                                <div class="intro_layer" data-animation="fadeIn">
+                                                    <h3 class="text-lowercase intro_before_featured_word">Internet
+                                                    </h3>
+                                                </div>
+                                                <div class="intro_layer" data-animation="fadeIn">
+                                                    <h2 class="text-uppercase intro_featured_word">Advertisement
+                                                    </h2>
+                                                </div>
+                                                <div class="intro_layer" data-animation="pullDown">
+                                                    <p class="text-uppercase intro_after_featured_word">Solutions</p>
+                                                </div>
+                                                <div class="intro_layer page-bottom" data-animation="expandUp">
+                                                    <a class="btn btn-maincolor" href="contact">Call now</a>
+                                                </div>
+                                            </div>
+                                            <!-- eof .intro_layers -->
+                                        </div>
+                                        <!-- eof .intro_layers_wrapper -->
+                                    </div>
+                                    <!-- eof .col-* -->
+                                </div>
+                                <!-- eof .row -->
+                            </div>
+                            <!-- eof .container -->
+                        </li>
+
+                    </ul>
+                </div>
+
+                <div class="flexslider-bottom d-none d-xl-block">
+                    <a href="#about" class="mouse-button animated floating"></a>
+                </div>
+            </section>
+            <div class="divider-10 d-block d-sm-none"></div>
